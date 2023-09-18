@@ -1,7 +1,6 @@
 # 4.4.9
-![scren1](/coordinata/4.4.9/blob/main/1.png)
+![scren1](https://github.com/coordinata/4.4.9/blob/main/1.png)
 
-![scren2](/coordinata/4.4.9/blob/main/2.png)
+![scren2](https://github.com/coordinata/4.4.9/blob/main/2.png)
 
-![scren3](/coordinata/4.4.9/blob/main/3.png)
-
+![scren3](https://github.com/coordinata/4.4.9/blob/main/3.png)
